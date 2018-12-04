@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">sounique Dancevarsity</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="button5">Button</string>
+    <string name="button6">Button</string>
+    <string name="button7">Button</string>
+    <string name="bookings">bookings</string>
+    <string name="order_merchadise">order merchadise</string>
+    <string name="hello_this_is_our_official_mobile_dance_app">Hello!! This is our official mobile dance app</string>
+    <string name="instagram">instagram</string>
+    <string name="youtube">youtube</string>
+    <string name="face_book">face book</string>
+    <string name="about_us">about us</string>
+
+
+    <string name="settings_text_select_theme">Select Theme:</string>
+
+    <string name="settings_text_credentials">Credentials</string>
+
+    <string name="settings_text_username_hint">username</string>
+
+    <string name="settings_text_password_hint">password</string>
+
+    <string name="settings_text_sync_automatically">Sync automatically</string>
+
+    <string name="settings_text_location">Location</string>
+
+    <string name="settings_text_state_on">On</string>
+
+    <string name="settings_text_state_off">Off</string>
+
+    <string name="settings_text_clear_data">Clear Data</string>
+
+    <string-array name="theme_array">
+
+        <item>Material-Light</item>
+
+        <item>YOUR-CUSTOM-THEME-NAME</item>
+
+    </string-array>
+
+</resources>
