@@ -32,12 +32,16 @@
     <string name="settings_text_state_off">Off</string>
 
     <string name="settings_text_clear_data">Clear Data</string>
+    <string name="get_our_product_at_a_fair_price">Get our product at a fair price</string>
+    <string name="textview">TextView</string>
+    <string name="sounique_fashions_is_an_online_delivery_store_delivering_across_the_country_we_offer_custom_made_design_as_well_as_our_own_label_our_prices_vary_with_the_product_we_offer_free_deliveries_for_people_around_nairobi">Sounique fashions is an online delivery store, delivering across the country. we offer custom made design as well as our own label our prices vary with the product We offer free deliveries for people around Nairobi</string>
+    <string name="todo">TODO</string>
+    <string name="services">services</string>
 
     <string-array name="theme_array">
 
         <item>Material-Light</item>
 
-        <item>YOUR-CUSTOM-THEME-NAME</item>
 
     </string-array>
 

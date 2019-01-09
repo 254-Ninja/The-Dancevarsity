@@ -7,86 +7,13 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <TextView
-
-        android:id="@+id/tvSelectTheme"
-
-        android:layout_width="wrap_content"
-
-        android:layout_height="wrap_content"
-
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="18dp"
-        android:layout_marginLeft="18dp"
-        android:layout_marginBottom="73dp"
-        android:text="@string/settings_text_select_theme" />
-
-
-    <Spinner
-
-        android:id="@+id/spThemes"
-
-        android:layout_width="wrap_content"
-
-        android:layout_height="wrap_content"
-
-        android:layout_alignBaseline="@+id/tvSelectTheme"
-
-        android:layout_alignParentRight="true"
-
-        android:layout_toRightOf="@+id/tvSelectTheme"
-
-        android:entries="@array/theme_array"
-
-        android:spinnerMode="dropdown" />
-
-    <TextView
-
-        android:id="@+id/tvSync"
-
-        android:layout_width="wrap_content"
-
-        android:layout_height="wrap_content"
-
-        android:layout_alignStart="@+id/tvSelectTheme"
-
-        android:layout_alignLeft="@+id/tvSelectTheme"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="41dp"
-        android:text="@string/settings_text_sync_automatically"
-        android:textSize="17sp" />
-
-
-    <CheckBox
-
-        android:id="@+id/checkbox_sync_automatically"
-
-        android:layout_width="wrap_content"
-
-        android:layout_height="wrap_content"
-
-        android:layout_alignBaseline="@+id/tvSync"
-
-        android:layout_alignParentRight="true"
-
-        android:checked="true" />
-
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="11dp"
-        android:text="@string/hello_this_is_our_official_mobile_dance_app" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="228dp"
-        android:text="@string/bookings"
+        android:text="@string/services"
         android:textColorHint="#fff"
         android:textSize="20sp"
         android:textStyle="bold|italic"
@@ -97,12 +24,12 @@
         android:id="@+id/button4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignTop="@+id/button2"
+        android:layout_alignTop="@+id/button3"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_marginStart="0dp"
         android:layout_marginLeft="0dp"
-        android:layout_marginTop="51dp"
+        android:layout_marginTop="56dp"
         android:text="@string/order_merchadise"
         android:textColorHint="#fff"
         android:textSize="20sp"
@@ -116,7 +43,7 @@
         android:layout_alignParentTop="true"
         android:layout_marginBottom="461dp"
         android:text="@string/instagram"
-        android:textColorHint="#fff"
+        android:textColorHint="#ff0000"
         android:textSize="20sp"
         android:textStyle="bold|italic" />
 
@@ -145,15 +72,6 @@
         android:textSize="20sp"
         android:textStyle="bold|italic" />
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="286dp"
-        android:text="@string/about_us"
-        android:textColorHint="#fff"
-        android:textSize="20sp"
-        android:textStyle="bold|italic" />
 
     <VideoView
         android:id="@+id/videoView"
@@ -161,6 +79,15 @@
         android:layout_height="180dp"
         android:layout_below="@+id/button5"
         android:layout_marginTop="-461dp" />
+
+    <Button
+        android:id="@+id/button0"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="105dp"
+        android:background="@android:color/transparent" />
 
 
 </RelativeLayout>

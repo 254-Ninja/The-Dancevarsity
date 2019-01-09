@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".merchandise">
+
+
+
+        <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="30dp"
+        android:textStyle="italic"
+        android:textAlignment="center"
+        android:paddingRight="6sp"
+        android:paddingLeft="7sp"
+        android:textSize="15sp"
+        android:text="@string/sounique_fashions_is_an_online_delivery_store_delivering_across_the_country_we_offer_custom_made_design_as_well_as_our_own_label_our_prices_vary_with_the_product_we_offer_free_deliveries_for_people_around_nairobi"
+            android:paddingEnd="6sp"
+            android:paddingStart="7sp" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="30dp"
+        android:textStyle="bold"
+        android:paddingRight="6sp"
+        android:paddingLeft="7sp"
+        android:textSize="15sp"
+        android:text="Contact us @"
+        android:paddingEnd="6sp"
+        android:paddingStart="7sp" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="7dp"
+        android:textStyle="italic"
+        android:paddingRight="6sp"
+        android:paddingLeft="7sp"
+        android:textSize="15sp"
+        android:text="mail:"
+        android:paddingEnd="6sp"
+        android:paddingStart="7sp" />
+    <TextView
+        android:id="@+id/textView121"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="7dp"
+        android:textStyle="italic"
+        android:paddingRight="6sp"
+        android:paddingLeft="7sp"
+        android:textSize="15sp"
+        android:text="mobile:"
+        android:paddingEnd="6sp"
+        android:paddingStart="7sp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/cap"
+        android:contentDescription="@string/todo" />
+
+
+</LinearLayout>
