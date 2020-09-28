@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.emeq.dancevarsity">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/sounique_b"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/sounique_b"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Artist"></activity>
+        <activity
+            android:name=".Merchandise"
+            android:label="Merchandise" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

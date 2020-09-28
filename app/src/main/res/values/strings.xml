@@ -1,0 +1,79 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Dancevarsity</string>
+    <string name="merchandise">Merchandise</string>
+    <string name="makeselection">Your Selection</string>
+    <string name="shirt">Tshirt</string>
+    <string name="quantity">Quantity</string>
+    <string name="myname">name</string>
+    <string name="shoes">Shoes</string>
+    <string name="website">Website</string>
+    <string name="button" tools:keep="@string/button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="todo3" tools:keep="@string/todo3">TODO</string>
+    <string name="shoes_comming_soon">shoes coming soon</string>
+    <string name="_2">2</string>
+    <string name="order">Order</string>
+    <string name="lipa_na_mpesa">Lipa na Mpesa</string>
+    <string name="adding">+</string>
+    <string name="todo_merch">TODO</string>
+    <string name="sub">-</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="youtube">Youtube</string>
+    <string name="instagram">Instagram</string>
+    <string name="menu">Menu</string>
+    <string name="cancel">cancel</string>
+    <string name="send_email">Send email</string>
+    <string name="send_mail">Send mail</string>
+    <string name="next">Next</string>
+    <string name="cancel1">Cancel</string>
+    <string name="string_cancel1" />
+    <string name="string_string_cancel1">cancel</string>
+    <string name="cool_dance_videos">cool dance videos</string>
+    <string name="twitter">Twitter</string>
+    <string name="trade_marked">Trade marked</string>
+    <string name="plain_q">Plain</string>
+
+
+    <string name="order_summary_name">Name: <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="artist_name">Identifier: <xliff:g example="customer" id="Identifier">%s</xliff:g></string>
+    <string name="has_Dancer_a">Dancer a? <xliff:g example="true" id="hasDancera">%d</xliff:g></string>
+    <!--
+       Total price for the order summary. It will be shown in the format of
+       "Total: $10" where $10 is the price. [CHAR LIMIT=NONE]
+     -->
+    <string name="order_summary_price">Total: <xliff:g example="$10" id="price">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">Marked Tshirt? <xliff:g example="true" id="hasMarked">%b</xliff:g></string>
+    <string name="order_summary_chocolate">Plain Tshirt? <xliff:g example="true" id="hasTshirt">%b</xliff:g></string>
+
+    <string name="order_summary_quantity">Quantity: <xliff:g example="2" id="quantity">%d</xliff:g></string>
+
+    <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+    <string name="name_phone_no">Name / phone no</string>
+    <string name="your_details_contacts">Your details/ contacts</string>
+    <string name="name">name (customer)  </string>
+
+    <string name="has_Dancer_b">has Dance b? <xliff:g example="true" id="hasDancerb">%b</xliff:g></string>
+    <string name="has_Dj">hasDj? <xliff:g example="true" id="hasDj"></xliff:g></string>
+    <string name="select_your_artist">Select your artist</string>
+    <string name="djk">Dj</string>
+    <string name="mestarvide1">Mestarvide</string>
+    <string name="submit">Submit</string>
+    <string name="dancers">Dancers</string>
+    <string name="dancer_2">dancer 2</string>
+    <string name="dancevarsity_group">Dancevarsity Group</string>
+    <string name="oness">Oness</string>
+    <string name="mestarvide">Mestarvide</string>
+    <string name="shem">Shem</string>
+    <string name="dancer_1">dancer 1</string>
+    <string name="individual_dancer_ads">Individual dancer Ads</string>
+    <string name="dance_ad">Dance Ad</string>
+    <string name="your_dancevarsity_tshirt_selection">Your dancevarsity tshirt selection</string>
+    <string name="email_us_your_preferred_designs_for_custom_made_cloths_at_souniquedancevarsity_gmail_com">Email us your preferred designs for custom made cloths at @souniquedancevarsity@gmail.com</string>
+    <string name="we_also_sell_plain_cloth_and_other_fashionable_merchandise_like_shoes">we also sell plain cloth and other fashionable merchandise like shoes</string>
+    <string name="artist_bookings">Artist Bookings</string>
+    <string name="_0">0</string>
+    <string name="we_offer_a_variety_of_artistic_services_in_events_clubs_and_other_entertainment_fields_book_dancers_dj_s_below">We offer a variety of artistic services in events, clubs and other entertainment fields. book dancers/ Dj\'s below.</string>
+
+</resources>

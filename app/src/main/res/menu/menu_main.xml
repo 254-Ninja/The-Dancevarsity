@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/send_mail"
+        android:icon="@drawable/launch"
+        android:title="@string/send_mail"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/next_action"
+        android:title="@string/cool_dance_videos" />
+    <item
+        android:id="@+id/cancelo"
+        android:title="@string/twitter" />
+</menu>
