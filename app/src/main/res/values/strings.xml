@@ -75,5 +75,14 @@
     <string name="artist_bookings">Artist Bookings</string>
     <string name="_0">0</string>
     <string name="we_offer_a_variety_of_artistic_services_in_events_clubs_and_other_entertainment_fields_book_dancers_dj_s_below">We offer a variety of artistic services in events, clubs and other entertainment fields. book dancers/ Dj\'s below.</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 
 </resources>
