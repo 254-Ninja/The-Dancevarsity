@@ -15,8 +15,6 @@
         android:textAlignment="center"
         android:textSize="60sp"
         android:fontFamily="cursive"
-  //      android:textColor="@color/colorblack"
-  //      android:background="@drawable/bgtext"
         android:layout_marginBottom="25dp"
         />
     <TextView
@@ -55,8 +53,6 @@
         android:text="Login"
         android:layout_marginHorizontal="30dp"
         android:layout_marginVertical="20dp"
-   //     android:background="@drawable/"
-    //    android:textColor="@color/colorWhite"
         />
     <TextView
         android:layout_width="match_parent"
