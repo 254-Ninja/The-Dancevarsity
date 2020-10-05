@@ -17,12 +17,12 @@ public class loginscreen extends AppCompatActivity {
         setContentView(R.layout.activity_loginscreen);
 
         // Locate the button in activity_main.xml
-        button = findViewById(R.id.button2);
+        button = findViewById(R.id.buttonmain);
         // Capture button clicks
         button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View arg0) {
 
-                // Start NewActivity.class
+                // Start MainActivity.class
                 Intent myIntent = new Intent(loginscreen.this,
                         MainActivity.class);
                 startActivity(myIntent);
