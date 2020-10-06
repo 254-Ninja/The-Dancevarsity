@@ -53,13 +53,14 @@
         android:layout_width="match_parent"
         android:layout_marginHorizontal="30dp"
         android:layout_height="wrap_content"
-        android:text="User name"
+        android:text="Date of Birth"
         android:textColor="@color/colorAccent"
         />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="dancevarsity@gmail.com"
+        android:hint="1-1-1990"
+        android:inputType="date"
         android:layout_marginHorizontal="30dp"
         />
     <TextView
@@ -83,7 +84,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Login"
+        android:text="Sign Up"
         android:layout_marginHorizontal="30dp"
         android:layout_marginVertical="20dp"
         android:id="@+id/buttonmain"
@@ -91,7 +92,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="No Account yet? create One"
+        android:text="Already have an account? LogIn"
         android:layout_marginHorizontal="30dp"
         android:textAlignment="center"
         />
