@@ -23,13 +23,13 @@
         android:layout_width="match_parent"
         android:layout_marginHorizontal="30dp"
         android:layout_height="wrap_content"
-        android:hint="dancevarsity@gmail.com"
         android:text="User name"
         android:textColor="@color/colorAccent"
         />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:hint="dancevarsity@gmail.com"
         android:layout_marginHorizontal="30dp"
         />
     <TextView
