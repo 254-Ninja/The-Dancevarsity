@@ -16,6 +16,7 @@
         android:textSize="60sp"
         android:fontFamily="cursive"
         android:layout_marginBottom="25dp"
+        android:id="@+id/imageView"
         />
     <TextView
         android:layout_width="match_parent"
