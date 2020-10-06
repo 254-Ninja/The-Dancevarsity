@@ -5,6 +5,7 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/blue"
     tools:context=".loginscreen">
 
     <TextView
@@ -16,19 +17,19 @@
         android:textSize="60sp"
         android:fontFamily="cursive"
         android:layout_marginBottom="25dp"
-        android:id="@+id/imageView"
+        android:background="@color/blue"
         />
     <TextView
         android:layout_width="match_parent"
         android:layout_marginHorizontal="30dp"
         android:layout_height="wrap_content"
+        android:hint="dancevarsity@gmail.com"
         android:text="User name"
         android:textColor="@color/colorAccent"
         />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
         android:layout_marginHorizontal="30dp"
         />
     <TextView
